@@ -8,4 +8,9 @@
 
 <h3>2. Assignment:</h3>
 
-- Once a ticket is created, it needs to be assigned to an agent or a team responsible for handling such requests. This can be done manually by an administrator or automatically based on predefined rules or round-robin assignment.
+- Once a ticket is created, it must be assigned to an agent or a team responsible for handling such requests. An administrator can do this manually or automatically based on predefined rules or round-robin assignments.
+
+
+<h3>3.Investigation/Work:</h3>
+
+- The assigned agent or team begins investigating the issue described in the ticket and takes necessary actions to resolve it. This may involve gathering additional information from the user, performing troubleshooting steps, or coordinating with other departments or individuals.
