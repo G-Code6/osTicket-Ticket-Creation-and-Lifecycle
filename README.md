@@ -4,7 +4,7 @@
 
 <h3>1. Ticket Creation:</h3> 
 
-- A ticket is created when a user submits a request for support or assistance. This can be done through various channels such as email, web form, or API.
+- A ticket is created when a user submits a request for support or assistance. This can be done through various channels such as email, web form, or API - Application Programming Interface.
 
 <h3>2. Assignment:</h3>
 
