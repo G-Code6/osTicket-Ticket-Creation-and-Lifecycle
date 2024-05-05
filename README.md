@@ -37,4 +37,8 @@ Once the ticket is resolved, it is marked as closed. This indicates that the rep
 
 In some cases, it may be necessary to follow up with the user after the ticket has been closed to ensure that the resolution provided is satisfactory and that there are no further issues or questions.
 
+<h3>7.Reopening (Optional):</h3>
+
+If the user is not satisfied with the resolution provided or if the issue reoccurs, they may reopen the ticket, initiating the support process again. This allows for further investigation and resolution of the issue.
+
 
