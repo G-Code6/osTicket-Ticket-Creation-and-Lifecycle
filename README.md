@@ -21,3 +21,8 @@
 <h3>3.Investigation/Work:</h3>
 
 - The assigned agent or team begins investigating the issue described in the ticket and takes necessary actions to resolve it. This may involve gathering additional information from the user, performing troubleshooting steps, or coordinating with other departments or individuals.
+
+
+<h3>4.Resolution::</h3>
+
+- After completing the necessary work, the agent provides a resolution to the issue reported in the ticket. This could be a solution to a problem, an answer to a question, or any other form of assistance requested by the user.
