@@ -31,5 +31,7 @@
 
 Once the ticket is resolved, it is marked as closed. This indicates that the reported issue has been addressed to the user's satisfaction. Depending on the configuration, closure may require confirmation from the user or it may be done solely by the agent.
 
+![Screenshot 2024-05-05 at 2 17 28 PM](https://github.com/G-Code6/osTicket-Ticket-Creation-and-Lifecycle/assets/163748328/29fc1b88-d936-49c8-b687-03996a87023e)
+
 
 
