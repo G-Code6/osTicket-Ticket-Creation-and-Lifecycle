@@ -23,6 +23,13 @@
 - The assigned agent or team begins investigating the issue described in the ticket and takes necessary actions to resolve it. This may involve gathering additional information from the user, performing troubleshooting steps, or coordinating with other departments or individuals.
 
 
-<h3>4.Resolution::</h3>
+<h3>4.Resolution:</h3>
 
 - After completing the necessary work, the agent provides a resolution to the issue reported in the ticket. This could be a solution to a problem, an answer to a question, or any other form of assistance requested by the user.
+
+<h3>5.Closure:</h3>
+
+Once the ticket is resolved, it is marked as closed. This indicates that the reported issue has been addressed to the user's satisfaction. Depending on the configuration, closure may require confirmation from the user or it may be done solely by the agent.
+
+
+
