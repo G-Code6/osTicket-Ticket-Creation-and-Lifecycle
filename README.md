@@ -8,6 +8,8 @@
 
 ![Screenshot 2024-05-05 at 10 52 20 AM](https://github.com/G-Code6/osTicket-Ticket-Creation-and-Lifecycle/assets/163748328/c7226ad1-884b-411b-96df-141b55373c4f)
 
+![Screenshot 2024-05-05 at 11 09 11 AM](https://github.com/G-Code6/osTicket-Ticket-Creation-and-Lifecycle/assets/163748328/5e7af4c2-d18f-4016-b929-4b7b0cc41134)
+
 
 <h3>2. Assignment:</h3>
 
