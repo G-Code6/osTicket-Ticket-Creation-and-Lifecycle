@@ -2,7 +2,26 @@
 
 ![servicenow-ticketing-04-the-ticket-life-cycle](https://github.com/G-Code6/osTicket-Ticket-Creation-and-Lifecycle/assets/163748328/a897236f-e9bd-4349-af14-be7a721147ff)
 
+<h2>Environments and Technologies Used</h2>
 
+- Microsoft Azure (Virtual Machines/Computer)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10 / MacOs </b> 
+
+<h2>List of Prerequisites</h2>
+
+- Azure Account: Sign up for Azure if you haven't already.
+- Virtual Machine: Create a VM on Azure to host osTicket.
+- Web Server: Choose Apache or Nginx. We'll install it on the VM.
+- PHP: Install PHP on the VM.
+- Database: Decide between MySQL or MariaDB. We'll set it up on the VM too.
+- SMTP Server (Optional): Set up an SMTP server for email communication.
+
+<h3>Installation Steps:<h3>
 
 <h3>1. Ticket Creation:</h3> 
 
